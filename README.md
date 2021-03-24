@@ -4,3 +4,4 @@ Well you can edit for you needs like remove picom, fell free to edit this when d
 And may or may not the awesome fonts will not appear.
 pacman-contrib is for the checkupdates function.
 sysstat is for mpstat function.
+# Warning! this only works on Arch Linux.
