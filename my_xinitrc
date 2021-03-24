@@ -1,6 +1,5 @@
 nitrogen --restore &
 picom --experimental-backends &
-setxkbmap br &
 
 per(){
   per="$(mpstat | awk '$12 ~ /[0-9.]+/ { print 100 - $12"%" }')"
