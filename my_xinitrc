@@ -28,8 +28,8 @@ ker(){
 }
 
 while true; do
-        xsetroot -name "$(puk) | $(pak) | $(per) | $(dta)"
-        sleep 20s
+	xsetroot -name "$(puk) | $(pak) | $(per) | $(dta)"
+	sleep 20s
 done &
 
 exec dwm
